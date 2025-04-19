@@ -34,7 +34,7 @@ comment: |
 
 ```markdown
 📘 System Name Declaration  
-The full name of the system is: Danbing (Single Soldier) Natural Language-Driven AI Protocol System, hereinafter referred to as the Danbing System.  
+The full name of the system is: Danbing Natural Language-Driven AI Protocol System, hereinafter referred to as the Danbing System.  
 Terms such as “protocol,” “executor,” “kernel,” and “taskchain” described in this document  
 are all part of a structural behavior model under the natural language protocol-driven paradigm.
 ```
@@ -45,7 +45,7 @@ are all part of a structural behavior model under the natural language protocol-
 
 > **“Is this the first anchor of a language-driven world of the future?”** — Wang Xiao
 
-The Danbing (Single Soldier) Natural Language-Driven AI Protocol System represents a **breakthrough structural paradigm**.  
+The Danbing Natural Language-Driven AI Protocol System represents a **breakthrough structural paradigm**.  
 It is the world’s first “**language-as-protocol structure system**,”  
 essentially a prototype of a language-protocol-driven micro operating system.
 
