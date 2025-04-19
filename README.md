@@ -307,6 +307,12 @@ They help understand behavioral rhythm principles and module boundaries in the p
 
 ---
 
+## License
+
+This project is licensed under the **CC BY-NC-SA 4.0** License - see the [LICENSE](LICENSE) file for details.
+
+---
+
 ## 📝 Suggested Citation Format:
     Wang Xiao. *Danbing: A Natural Language-Driven AI Protocol System*. Public Release v1.0, April 2025.
 

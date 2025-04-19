@@ -264,6 +264,12 @@ Danbing（单兵）自然语言驱动 AI 协议系统
 
 ---
 
+## License
+
+This project is licensed under the **CC BY-NC-SA 4.0** License - see the [LICENSE](LICENSE) file for details.
+
+---
+
 ## 📝 引用建议（参考格式）：
     Wang Xiao. *Danbing: A Natural Language-Driven AI Protocol System*. Public Release v1.0, April 2025.
 
