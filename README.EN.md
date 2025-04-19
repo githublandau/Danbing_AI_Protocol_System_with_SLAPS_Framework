@@ -23,7 +23,7 @@ comment: |
 ---
 📖 `Danbing v1.0 · Built from rhythm. Run by structure. Auditable by snapshot. Governed by oath.`
 
-## 📘 Danbing: Natural Language-Driven AI Protocol System · Public Release v1.0
+## 📘 Danbing Natural Language-Driven AI Protocol System · Public Release v1.0
 
 > This release directory represents version v1.0 of the Danbing Protocol System,  
 > including the protocol declaration, execution rules, structural appendices, cold boot flow, and other core documents.  
@@ -214,7 +214,7 @@ This system is a **micro-operating system protocol model built entirely through 
 ---
 
 ## 🧭 Public Module Structure Overview (Conceptual Closed Loop)  
-Danbing: Natural Language-Driven AI Protocol System
+Danbing Natural Language-Driven AI Protocol System
 
 Below is the proposed module set forming the “breathing OS” concept —  
 a closed-loop execution system showcasing Danbing’s structural integrity and trustworthiness in natural language-driven AI behavior.
