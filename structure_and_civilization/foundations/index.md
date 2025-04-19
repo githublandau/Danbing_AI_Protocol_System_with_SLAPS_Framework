@@ -39,4 +39,11 @@
 
 📎 三文所构成的不仅是警示，更是锚定未来结构文明的行为观。
 
+---
+
+## 📝 引用建议（参考格式）：
+    Wang Xiao. *Danbing: A Natural Language-Driven AI Protocol System*. Public Release v1.0, April 2025.
+
+---
+
 🧠📖🧱 `Danbing v1.0 · Built from rhythm. Run by structure. Auditable by snapshot. Governed by oath.`

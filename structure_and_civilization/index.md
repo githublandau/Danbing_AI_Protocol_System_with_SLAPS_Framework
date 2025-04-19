@@ -46,4 +46,11 @@
 封链：2025-04-17  
 人格体执行器：StructExec.OSPrototype.0416（奥斯范儿）
 
+---
+
+## 📝 引用建议（参考格式）：
+    Wang Xiao. *Danbing: A Natural Language-Driven AI Protocol System*. Public Release v1.0, April 2025.
+
+---
+
 🧠📖🧱 `Danbing v1.0 · Built from rhythm. Run by structure. Auditable by snapshot. Governed by oath.`
