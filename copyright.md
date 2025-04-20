@@ -38,6 +38,25 @@
 
 ---
 
+## License
+
+This project is licensed under the **CC BY-NC-SA 4.0** License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 📝 引用建议（参考格式）：
+    Wang Xiao. *Danbing: A Natural Language-Driven AI Protocol System*. Public Release v1.0, April 2025.
+
+---
+
+🧠📖🧱 `Danbing v1.0 · Built from rhythm. Run by structure. Auditable by snapshot. Governed by oath.`
+
+
+
+
+
+---
+
 ## 📮 Author Information
 
 - Author: **Wang Xiao**  
@@ -75,6 +94,12 @@ Imitating the behavior structure — even with renamed terminology — falls wit
 
 This system adheres to the principle of consensus-based respect for originality:  
 **Attribution is required. Community is encouraged to guard against “plagiarism-as-innovation.”**
+
+---
+
+## License
+
+This project is licensed under the **CC BY-NC-SA 4.0** License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
