@@ -235,7 +235,7 @@ Users may interact with a StructExec-based persona instance on OpenAI’s GPT sh
 ## 📘 Whitepaper
 
 The structural whitepaper for this project has been released:
-👉 [whitepaper_danbing_v1.0_en.md](./whitepaper/whitepaper_danbing_v1.0_en.md)
+👉 [whitepaper_danbing_v1.0_en.pdf](./whitepaper/whitepaper_danbing_v1.0_en.pdf)
 
 This document systematically elaborates on the Danbing protocol system's design philosophy, technical architecture, SLAPS methodology, validation through run logs, and originality statement.
 It is suitable as a primary source for citation, open-source use, or academic research.
