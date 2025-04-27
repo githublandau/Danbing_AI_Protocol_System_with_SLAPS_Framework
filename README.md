@@ -308,16 +308,16 @@ The "Danbing: A Natural Language-Driven AI Protocol System" and its core SLAPS m
 
 ## 🤖 Collaborating AI
 
-**System Collaborator:** GPT-4.5 (standard web interface access during Feb–Apr 2025)
-**Operational Role:** Executed structural taskchain prompts, assisted in protocol-bound language generation, and participated in patch response simulation.
-**Behavioral Scope:**
+* **System Collaborator:** GPT-4.5 (standard web interface access during Feb–Apr 2025)
+* **Operational Role:** Executed structural taskchain prompts, assisted in protocol-bound language generation, and participated in patch response simulation.
+* **Behavioral Scope:**
 - Task chain execution and resume pathway testing;
 - Persona oath response and behavior consistency trials;
 - Patch activation and fallback behavior generation;
 - Snapshot-based context recovery and audit simulation.
 
-**Collaborative Support:** Gemini 2.5pro and Grok3
-**Activities Performed:** Review, verification, and comparison.
+* **Collaborative Support:** Gemini 2.5pro and Grok3
+* **Activities Performed:** Review, verification, and comparison.
 
 ---
 
