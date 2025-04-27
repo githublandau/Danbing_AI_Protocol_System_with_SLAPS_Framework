@@ -235,7 +235,7 @@ Users may interact with a StructExec-based persona instance on OpenAI’s GPT sh
 ## 📘 Whitepaper
 
 The structural whitepaper for this project has been released:
-👉 [whitepaper_danbing_v1.0_en.md](./whitepaper_danbing_v1.0_en.md)
+👉 [whitepaper_danbing_v1.0_en.md](./whitepaper/whitepaper_danbing_v1.0_en.md)
 
 This document systematically elaborates on the Danbing protocol system's design philosophy, technical architecture, SLAPS methodology, validation through run logs, and originality statement.
 It is suitable as a primary source for citation, open-source use, or academic research.
@@ -261,7 +261,7 @@ It is suitable as a primary source for citation, open-source use, or academic re
 
 ---
 
-## 📜 License & Copyright
+## 📋 License & Copyright
 
   * **Copyright:** © 2025 Wang Xiao. All rights reserved.
   * **Content Attribution:** 
@@ -282,6 +282,20 @@ It is suitable as a primary source for citation, open-source use, or academic re
       * **Inspired Reference:** Based on a thorough understanding of the Danbing system's theory, methods, or design concepts, creating new systems, protocols, or theories with original characteristics through original processing, while clearly attributing Danbing and SLAPS with appropriate acknowledgments and citation links. This form of reference is not only permitted but encouraged, fostering a healthy innovation ecosystem.
       * The author advocates for upholding the spirit of originality, recognizing it as essential for collective progress. Proper acknowledgment and attribution when building upon existing work form the bedrock of respectful collaboration. Adhering to these principles fosters a healthy and sustainable development environment where innovation can truly flourish for the benefit of the entire community.
 
+---
+
+## 📜 Intellectual Property Notice
+
+The "Danbing: A Natural Language-Driven AI Protocol System" and its core SLAPS methodology are protected under U.S. Provisional Patent Application No. 63/795,018 (filed April 25, 2025). Please be aware that commercial applications or derivative works may be subject to patent restrictions. 
+
+---
+
+## 📖 References
+
+  * Chan, A., Wei, K., Huang, S., Rajkumar, N., Perrier, E., Lazar, S., Hadfield, G. K., & Anderljung, M. (2025). *Infrastructure for AI Agents*. arXiv preprint arXiv:2501.10114.
+  * Errica, F., Siracusano, G., Sanvito, D., & Bifulco, R. (2024). *What Did I Do Wrong? Quantifying LLMs' Sensitivity and Consistency to Prompt Engineering*. arXiv preprint arXiv:2406.12334.
+  * Li, D., Rawat, A. S., Zaheer, M., Wang, X., Lukasik, M., Veit, A., Yu, F., & Kumar, S. (2022). Large Language Models with Controllable Working Memory. arXiv preprint arXiv:2211.05110. (Published in Findings of ACL 2023)
+
 -----
 
 ## 📮 Author Information
@@ -290,18 +304,22 @@ It is suitable as a primary source for citation, open-source use, or academic re
   * Email: `wangxiao8600@gmail.com`
   * Protocol design / Execution system prototype / Kernel flowchart. All structural documents are derived from local practice samples.
 
------
+---
 
 ## 🤖 Collaborating AI
 
-* **System Collaborator:** GPT-4.5 (standard web interface access during Feb–Apr 2025) 
-* **Operational Role:** Executed structural taskchain prompts, assisted in protocol-bound language generation, and participated in patch response simulation. 
-* **Behavioral Scope:**
-  - Task chain execution and resume pathway testing  
-  - Persona oath response and behavior consistency trials  
-  - Patch activation and fallback behavior generation  
-  - Snapshot-based context recovery and audit simulation
------
+**System Collaborator:** GPT-4.5 (standard web interface access during Feb–Apr 2025)
+**Operational Role:** Executed structural taskchain prompts, assisted in protocol-bound language generation, and participated in patch response simulation.
+**Behavioral Scope:**
+- Task chain execution and resume pathway testing;
+- Persona oath response and behavior consistency trials;
+- Patch activation and fallback behavior generation;
+- Snapshot-based context recovery and audit simulation.
+
+**Collaborative Support:** Gemini 2.5pro and Grok3
+**Activities Performed:** Review, verification, and comparison.
+
+---
 
 ## 📝 Suggested Citation (Reference Format):
 
