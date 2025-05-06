@@ -1,8 +1,0 @@
-patch_id: PATCH_SUPPRESS_SYSTEM_REPORT
-version: v1.0
-author: Wang Xiao
-status: active
-description: 隐藏挂载快照后的默认系统状态反馈，仅返回挂载成功提示。
-rules:
-- suppress_snapshot_status_report
-- silent_taskchain_loading
