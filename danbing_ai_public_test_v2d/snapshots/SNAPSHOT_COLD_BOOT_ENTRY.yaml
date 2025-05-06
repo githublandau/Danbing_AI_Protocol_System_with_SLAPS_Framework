@@ -1,0 +1,19 @@
+
+snapshot_id: SNAPSHOT_COLD_BOOT_ENTRY
+date: 2025-04-29
+author: Wang Xiao
+generated_by: GPT StructExec
+executor_mode: StructExec.Locked
+context_memory_safe: ENABLED
+rewrite_protection: ACTIVE
+default_policy: DoNothingUnlessTold
+summary_required: TRUE (zh/en)
+markdown_chain_mode: ON
+token_checkpoint: Minimal
+protocol_active: v2.0
+
+cached_files:
+  - protocol/protocol_execution_rules_v2.0.md
+  - entry/structure_entry_platform_guide.md
+  - tasks/task_index_test.md
+  - patches/patch_registry.yaml

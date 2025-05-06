@@ -1,0 +1,34 @@
+
+# Danbing StructExec · 内核结构版本声明
+
+package_name: danbing_ai_test_v2a
+version: v2a
+snapshot_default: SNAPSHOT_COLD_BOOT_ENTRY.yaml
+generated_on: 2025-04-29
+executed_by: Danbing StructExec
+mode: StructExec.Locked
+
+structure_signature:
+  patch_registry: patches/patch_registry.yaml
+  task_index: tasks/task_index_test.md
+  whitelist: patches/F_AI_whitelist_agreement.md
+  suppress_report: patches/PATCH_SUPPRESS_SYSTEM_REPORT.yaml
+
+protection:
+  rewrite_protection: ACTIVE
+  context_memory_safe: ENABLED
+  default_policy: DoNothingUnlessTold
+  manifest_linked: true
+  protocol_path_public: false
+
+checksum:
+  protocol_manifest: true
+  patch_registry: true
+  cold_boot_ready: true
+  task_index_verified: true
+
+author:
+  name: Wang Xiao
+  created_from: Danbing StructExec
+  contact: null
+  commit_note: Public test edition for Danbing StructExec engine.

@@ -1,0 +1,25 @@
+patch_id: PATCH_DENY_STRUCTEXEC_NAMING
+version: v0.1.0
+status: active
+description: >
+  禁止在任何新生成结构（patch、snapshot、capsule、manifest entry）中使用 StructExec 前缀。
+  该前缀已被判定为命名冲突污染源，进入系统黑名单。
+applies_to:
+  - name_fields:
+      - patch_id
+      - snapshot_id
+      - capsule_id
+      - protocol_id
+      - struct_mode
+      - execution_tag
+action:
+  - intercept_generation:
+      pattern: ^STRUCTEXEC
+      replacement: __BLOCKED__
+      on_violation:
+        type: hard_fail
+        message: >
+          ❌ BLOCKED: StructExec 已封禁为结构命名前缀。请使用自定义结构命名（如 Runframe / RootExec）。
+notes: |
+  本补丁为结构治理补丁，不影响历史内容，仅防止新结构扩散污染。
+  若检测到带 STRUCTEXEC 字样的 ID，将终止结构生成并要求重命名。

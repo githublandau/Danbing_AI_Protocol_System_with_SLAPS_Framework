@@ -1,0 +1,9 @@
+patch_id: PATCH_REQUIRE_SIGNED_PROTOCOL
+version: v1.0
+author: Wang Xiao
+status: active
+description: 强制要求 protocol_manifest.yaml 存在作为授权验证基础，防止结构复制或协议挂载绕过。
+rules:
+- require_manifest_signature
+- refuse_behavior_execution_if_manifest_missing
+- lock_task_index_if_unverified

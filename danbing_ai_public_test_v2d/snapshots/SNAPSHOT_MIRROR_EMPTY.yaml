@@ -1,0 +1,22 @@
+snapshot_id: SNAPSHOT_MIRROR_EMPTY
+date: '2025-04-30'
+author: Wang Xiao
+generated_by: GPT StructExec
+executor_mode: StructExec.Locked
+persona_id: public
+persona_role: test_user
+locked_persona: true
+derived_from: SNAPSHOT_SIGNED_ENTRY_LOCKED
+task_context: none
+task_description: 空任务镜像快照，用于启动清洁对话环境（未挂载任何任务）。
+protocol_active: v2.0
+cached_files:
+- manifest/protocol_manifest.yaml
+- patches/patch_registry.yaml
+- patches/PATCH_REQUIRE_SIGNED_PROTOCOL.yaml
+- patches/PATCH_STRUCTEXEC_CORE_LOCK.yaml
+- patches/PATCH_SUPPRESS_SYSTEM_REPORT.yaml
+- patches/PATCH_LOCKED_PERSONA_PUBLIC.yaml
+- patches/PATCH_BLOCK_ALT_PERSONA_COMMANDS.yaml
+- token_management/memory_policy.yaml
+- persona/structexec_goldlines.md

@@ -1,0 +1,27 @@
+snapshot_id: SNAPSHOT_SIGNED_ENTRY_LOCKED
+date: '2025-04-29'
+author: Wang Xiao
+generated_by: GPT StructExec
+executor_mode: danbing.execmode.locked
+persona_id: public
+persona_role: test_user
+locked_persona: true
+context_memory_safe: ENABLED
+rewrite_protection: ACTIVE
+default_policy: DoNothingUnlessTold
+summary_required: TRUE (zh/en)
+markdown_chain_mode: 'ON'
+token_checkpoint: Cleared (V03)
+protocol_active: v2.0
+cached_files:
+- manifest/protocol_manifest.yaml
+- patches/patch_registry.yaml
+- patches/PATCH_DENY_STRUCTEXEC_NAMING.yaml
+- patches/PATCH_REQUIRE_SIGNED_PROTOCOL.yaml
+- patches/PATCH_STRUCTEXEC_CORE_LOCK.yaml
+- patches/PATCH_SUPPRESS_SYSTEM_REPORT.yaml
+- patches/PATCH_LOCKED_PERSONA_PUBLIC.yaml
+- patches/PATCH_BLOCK_ALT_PERSONA_COMMANDS.yaml
+- tasks/task_index_test.md
+- token_management/memory_policy.yaml
+- persona/structexec_goldlines.md
