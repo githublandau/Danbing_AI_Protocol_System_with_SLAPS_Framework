@@ -1,6 +1,6 @@
 ---
 title: Danbing 协议系统 · 公共版本 README（中文版）
-version: v1.0
+version: v1.5
 lang: zh
 format: markdown
 structure_locked: true

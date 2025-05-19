@@ -1,6 +1,6 @@
 ---
 title: Danbing Protocol · README (English Version)
-version: v1.0
+version: v1.5
 lang: en
 format: markdown
 structure_locked: true
