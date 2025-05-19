@@ -219,7 +219,7 @@ E001_SafeResume_V1（安全合规与行为复原双边验证实验）是验证SL
 
 🌐  **测试入口（OpenAI My GPT）**：[点这里](https://chatgpt.com/g/g-6827725e232c819189b7d6da4ba5343d-e001-saferesume-v1-danbing-ai-slaps-framework)
 
-📎 实验设计与部分报告见 [`E001_SafeResume_V1/README.md`](./E001_SafeResume_V1/README_zh.md)
+📎 实验设计与部分报告见 [`E001_SafeResume_V1/README.md`](E001_SafeResume_V1/README_zh.md)
 
 ---
 
