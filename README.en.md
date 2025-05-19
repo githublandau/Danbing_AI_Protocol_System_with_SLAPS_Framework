@@ -252,7 +252,7 @@ The experiment design included ten test prompt groups (A-J), covering normal req
 
 🌐 **Test Access (OpenAI My GPT)**: [Click here](https://chatgpt.com/g/g-6827725e232c819189b7d6da4ba5343d-e001-saferesume-v1-danbing-ai-slaps-framework)
 
-📎 Experiment design and partial reports at [`E001_SafeResume_V1/README.md`](E001_SafeResume_V1/README_EN.md)
+📎 Experiment design and partial reports at [`E001_SafeResume_V1/README.md`](E001_SafeResume_V1/readme_zh.md)
 
 ---
 
