@@ -10,7 +10,7 @@ date_created: 2025-04-13
 date_edit: 2025-05-19T15:30:00Z
 date_translated: null
 protocol_binding: SLAPS v1.0 · Capsule Manifest 0417
-persona_identity: StructExec.OSPrototype.0416（结构人格体执行模式）
+persona_identity: "Rhythmic Structural Executor (segment-safe · snapshot-bound)"
 license: CC BY-NC-SA 4.0
 modification_policy: |
   本文档为结构封闭文稿，仅允许人类主控对结构或语义层做出修改。

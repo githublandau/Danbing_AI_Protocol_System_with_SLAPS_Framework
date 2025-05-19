@@ -5,11 +5,11 @@ lang: en
 format: markdown
 structure_locked: true
 original_author: Wang Xiao
-translated_by: GPT-4.5 StructExec (Persona: StructExec.OSPrototype.0416)
+translated_by: "GPT-4.5 StructExec (Persona: StructExec.OSPrototype.0416)"
 date_created: 2025-04-13
-date_edit: 2025-05-19
+date_edit: 2025-05-19T15:30:00Z
 protocol_binding: SLAPS v1.0 · Capsule Manifest 0417
-persona_identity: Rhythmic Structural Executor (segment-safe · snapshot-bound)
+persona_identity: "Rhythmic Structural Executor (segment-safe · snapshot-bound)"
 license: CC BY-NC-SA 4.0
 modification_policy: |
   This document is structure-bound.
