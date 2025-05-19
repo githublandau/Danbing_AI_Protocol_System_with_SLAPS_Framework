@@ -59,7 +59,7 @@ It is a **cognitive anchor point for the future of human–AI collaboration para
 
 ## 🧠 SLAPS · Structural Language-Agreement Persona System
 
-**In Chinese: 结构语言协议人格系统训练**
+**In Chinese: 结构语言协议人格系统**
 
 ### 📌 Definition
 
