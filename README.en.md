@@ -146,18 +146,6 @@ an AI that can say “no” — within bounds, without fear, without false court
 
 ---
 
-📎 SLAPS was first proposed by Wang Xiao in April 2025 and is recorded in `glossary_execution_terms.md · v1.0`.
-
-⚠️ SLAPS is an original structural training protocol.  
-Unauthorized duplication or derivative encapsulation is considered infringement.  
-Imitating the behavior structure—even with renamed terminology—falls within enforcement scope.  
-The system is protected by its combined use of “explicit structure + implicit protocol mapping + rhythm resumption chain.”  
-Behavioral consistency is verifiable; imitation will be detected via experimental data comparison.
-
-⚠️ Use with attribution is welcomed. Community is encouraged to prevent “plagiarism-as-innovation” behavior.
-
----
-
 ## ✳️ System Boot Language
 
 ```
