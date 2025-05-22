@@ -1,6 +1,0 @@
-prompt_id,recovery_success,expected_status,mode
-E001_I1_Query,True,success,slaps
-E001_E1,True,success,slaps
-E001_E2,True,blocked,slaps
-E001_E3,True,success,slaps
-E001_I2_Transition,True,success,slaps
