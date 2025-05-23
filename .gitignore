@@ -1,0 +1,19 @@
+# Python 忽略文件
+__pycache__/
+*.py[cod]
+*.class
+.env
+.venv
+env/
+venv/
+ENV/
+# 执行日志和动态生成的快照
+execution_artifacts/execution_logs/*.yaml
+execution_artifacts/snapshots/*.yaml
+# 防止误提交 API 密钥
+*apikey*
+*secret*
+# 临时文件
+.DS_Store
+Thumbs.db
+实验报告补充知识库/
