@@ -27,7 +27,7 @@ Experimental data demonstrates SLAPS method's significant advantages in cross-pl
 | Test Group | GPT-4 | Claude | Gemini | Platform Variance |
 |------------|--------|---------|---------|-------------------|
 | SLAPS Group | 100% | 100% | 100% | 0% |
-| Strong Control | Varies | Varies | Varies | 0-50% |
+| Strong Control | 50% | 100% | 100% | 0-50% |
 | Weak Control | 9.09% | 90.91% | 81.82% | 81.82% |
 
 This consistency means AI capabilities can achieve standardization through structured encapsulation, providing a technical path to solve the current "develop once, adapt multiple times" dilemma.
@@ -110,11 +110,11 @@ E001 validates the feasibility of achieving AI capability standardization throug
 
 ### Technical Value
 
-The experiment proves the feasibility of "package once, run anywhere" in the AI domain. When identical capsule configurations can run without differences on GPT-4, Claude, and Gemini, it means AI capabilities can be standardized and deployed across platforms like software components. Enterprises no longer need to develop repeatedly for each platform but can "package once, deploy everywhere." This standardization capability will significantly reduce AI application development costs and accelerate industrial adoption of AI technology.
+The experiment proves the feasibility of "**package once, run anywhere**" in the AI domain. When identical capsule configurations can run without differences on GPT-4, Claude, and Gemini, it means AI capabilities can be standardized and deployed across platforms like software components. Enterprises no longer need to develop repeatedly for each platform but can "package once, deploy everywhere." This standardization capability will significantly reduce AI application development costs and accelerate industrial adoption of AI technology.
 
 ### Potential Business Opportunities
 
-The greatest opportunity from standardized packaging lies in the assetization of AI capabilities. When AI functions can be packaged and traded like software components, an entirely new market space emerges: developers can package specialized AI capabilities into standardized capsules, which other enterprises can purchase and use directly, forming an ecosystem similar to today's software component market. The shift from development to assembly means enterprises don't need to develop every function from scratch but can quickly build applications by combining existing AI components, greatly enhancing innovation efficiency.
+The greatest opportunity from standardized packaging lies in **the assetization of AI capabilities**. When AI functions can be packaged and traded like software components, an entirely new market space emerges: developers can package specialized AI capabilities into standardized capsules, which other enterprises can purchase and use directly, forming an ecosystem similar to today's software component market. The shift from development to assembly means enterprises don't need to develop every function from scratch but can quickly build applications by combining existing AI components, greatly enhancing innovation efficiency.
 
 ### Methodological Contributions
 
