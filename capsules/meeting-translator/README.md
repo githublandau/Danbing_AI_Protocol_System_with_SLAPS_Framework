@@ -60,6 +60,30 @@ When questions are detected, the system provides:
 - Context-based reply suggestions
 - Helps you organize language quickly
 
+### Auto Sync Feature
+
+When processing speed cannot keep up with audio input, the system accumulates delay. The Auto Sync feature intelligently manages this delay, balancing between real-time performance and content completeness.
+
+#### How It Works
+- **When OFF**: Preserves all audio content but may accumulate delay
+- **When ON**: Automatically drops old audio when delay exceeds threshold, maintaining real-time sync
+
+#### Usage Recommendations
+- **Formal meetings/Webinars**: Enable Auto Sync to keep up with the pace
+- **Friend chats/Group discussions**: Disable Auto Sync, ask speaker to slow down if needed
+- **Watching videos/Live streams**: Enable Auto Sync to maintain audio-video synchronization
+
+#### Parameter Adjustment
+Edit the `auto_sync` section in `config.yaml` to adjust:
+- `trigger_delay`: Delay threshold to trigger auto-drop (default: 2s)
+- `target_retain`: Audio duration to retain (default: 1.5s)
+- `warning_delay`: Delay threshold for warning display (default: 5s)
+
+#### Status Indicators
+- Orange button = Auto Sync enabled
+- Blue button = Auto Sync disabled
+- System will display appropriate status messages
+
 ## Configuration
 
 ### Language Settings
